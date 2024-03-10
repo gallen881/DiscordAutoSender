@@ -1,6 +1,7 @@
 import json
 
-print('Thanks for using this script!')
+print('Thanks for using DiscordAutoSender!')
+print('Repository: https://github.com/gallen881/DiscordAutoSender')
 
 config = []
 
